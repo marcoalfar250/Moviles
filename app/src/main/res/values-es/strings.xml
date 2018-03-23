@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab2</string>
+
+    <string name="billing_address">Direccion de Facturacion:</string>
+
+    <string-array name="country_arrays">
+        <item>Costa Rica</item>
+        <item>Estados Unidos</item>
+        <item>Francia</item>
+        <item>Italia</item>
+        <item>India</item>
+    </string-array>
+</resources>

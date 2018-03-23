@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab2</string>
+
+    <string name="billing_address">Billing Address:</string>
+
+    <string-array name="country_arrays">
+        <item>Costa Rica</item>
+        <item>United States</item>
+        <item>France</item>
+        <item>Italy</item>
+        <item>India</item>
+    </string-array>
+</resources>
